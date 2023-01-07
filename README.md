@@ -5,7 +5,7 @@ Aim: To Learn technique and generate solution to score top 10%.
 ## Progress
 |Name|My Score | Top 10 % | 
 |-|--|--|
-|Dogs vs Cats|0.049 & 0.03|-.061|
+|Dogs vs Cats|0.049 & 0.03|.061|
 |Global Wheat Detection|0.58 & 0.646|0.6441|
 |Dog Breed Identification|0.51|0.052|
 
